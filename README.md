@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da944ba0-b226-4238-b483-12bd755c6cd4" alt="alerTime">
+  <img src="https://github.com/user-attachments/assets/d84dfa78-3a03-48d2-81d6-400261582609" alt="alerTime">
 </p>
 
 # Android Application - Setup and Execution Guide
@@ -25,3 +25,11 @@ Para levantar este proyecto necesitarás:
 1. Conecta un dispositivo Android vía USB o inicia un emulador de Android.
 2. Haz clic en el botón `Run` en la barra de herramientas o selecciona `Run > Run 'app'` en el menú.
 3. Elige el dispositivo de destino y haz clic en `OK`.
+
+## Video - Demo
+
+https://github.com/user-attachments/assets/46c10164-5662-4dd5-a84c-10ab8b4b93ae
+
+
+
+
